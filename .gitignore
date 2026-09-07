@@ -1,0 +1,7 @@
+Miniconda3-latest-MacOSX-arm64.sh
+real-vs-fake-human-voice-deepfake-audio.zip
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

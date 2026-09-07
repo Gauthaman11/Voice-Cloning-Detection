@@ -1,0 +1,9 @@
+venv_voice
+__pycache__
+*.pyc
+.git
+tests/
+data/
+*.npy
+*.pkl
+*.h5
